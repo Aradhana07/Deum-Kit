@@ -1,1 +1,2 @@
-# Deum-Kit
+# Drum-Kit
+a music drum kit
